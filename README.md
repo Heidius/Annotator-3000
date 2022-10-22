@@ -1,4 +1,4 @@
-# OOP
+# Annotator3K
 Java OOP
 
 It is an easy and intuitive program based on Java with the main feature of adding annotations.
