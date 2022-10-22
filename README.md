@@ -1,15 +1,7 @@
 # OOP
 Java OOP
 
-The application is a simple image processor. It allows the user to choose and
-load an image file from the disk and then apply any of three operations. The three
-operations are:
-
- Gray scale – this turns the image into a monochrome image.
-
- Tint – this allows the user to choose whether to tint the image towards red, green or
-blue and how strong the tinting effect should be.
-
- Chromakey – this allows the user to select a second image, a key colour to blend
-through and a sensitivity to match the key colour; the second image will then show
-through all the regions of the first image that match the key colour.
+It is an easy and intuitive program based on Java with the main feature of adding annotations.
+However, it can not add annotations to every type of files, it has been programmed to add those only on images. The user is able to add as many annotations he wants to particular locations on the image and save them. Besides, this annotation can be removed eventually by the user. 
+In addition to these previous features, if the user chooses a non-picture file, he will get a warning message in the console informing about the error, and the program will close automatically. 
+At the time that the image has been displayed, the UI itself will resize in order to fit the image.
